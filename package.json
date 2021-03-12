@@ -15,7 +15,7 @@
     "axios": "^0.19.0",
     "core-js": "^3.4.3",
     "express": "^4.17.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "jspdf-autotable": "^3.2.11",
     "material-icons": "^0.3.1",
     "or": "^0.2.0",
